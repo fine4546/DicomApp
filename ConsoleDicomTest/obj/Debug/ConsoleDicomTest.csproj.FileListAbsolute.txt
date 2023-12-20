@@ -1,0 +1,10 @@
+C:\hdd_ext\PACS\DACOM\ConsoleDicomTest\ConsoleDicomTest\bin\Debug\ConsoleDicomTest.exe.config
+C:\hdd_ext\PACS\DACOM\ConsoleDicomTest\ConsoleDicomTest\bin\Debug\ConsoleDicomTest.exe
+C:\hdd_ext\PACS\DACOM\ConsoleDicomTest\ConsoleDicomTest\bin\Debug\ConsoleDicomTest.pdb
+C:\hdd_ext\PACS\DACOM\ConsoleDicomTest\ConsoleDicomTest\bin\Debug\CWDicom.dll
+C:\hdd_ext\PACS\DACOM\ConsoleDicomTest\ConsoleDicomTest\bin\Debug\CWDicom.pdb
+C:\hdd_ext\PACS\DACOM\ConsoleDicomTest\ConsoleDicomTest\obj\Debug\ConsoleDicomTest.csproj.AssemblyReference.cache
+C:\hdd_ext\PACS\DACOM\ConsoleDicomTest\ConsoleDicomTest\obj\Debug\ConsoleDicomTest.csproj.CoreCompileInputs.cache
+C:\hdd_ext\PACS\DACOM\ConsoleDicomTest\ConsoleDicomTest\obj\Debug\ConsoleDicomTest.csproj.CopyComplete
+C:\hdd_ext\PACS\DACOM\ConsoleDicomTest\ConsoleDicomTest\obj\Debug\ConsoleDicomTest.exe
+C:\hdd_ext\PACS\DACOM\ConsoleDicomTest\ConsoleDicomTest\obj\Debug\ConsoleDicomTest.pdb
